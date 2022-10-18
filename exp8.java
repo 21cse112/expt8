@@ -68,7 +68,7 @@ class Consumer implements Runnable
             q.get();
         }
     } }
-public class ProducerConsumer
+public class exp8
 {
     public static void main(String args[])
     {
